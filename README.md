@@ -1,5 +1,6 @@
 # Acer TravelMate P249 Hackintosh OpenCore (Big Sur 11.x)
 
+![img](https://imgur.com/a/mkNsaiV)
 ---
 
 Hardware | Model
